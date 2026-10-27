@@ -1,11 +1,11 @@
 {
-  "published_at_utc": "2026-10-27T18:37:35.380838+00:00",
-  "source_updated_at_utc": "2026-10-27T18:37:16.365Z",
-  "completed_families": 51,
+  "published_at_utc": "2026-10-27T21:27:02.135993+00:00",
+  "source_updated_at_utc": "2026-10-27T21:22:54.047Z",
+  "completed_families": 55,
   "expected_families": 96,
-  "source_snapshot": "sampling_update_20261027T182806.666004Z_539082",
+  "source_snapshot": "sampling_update_20261027T211636.403775Z_1749244",
   "publication_mode": "one-time public plot snapshot; no schedule",
-  "source_html_sha256": "5f469d31be01eab29a7a2884c3ce92ee59f2d228a27ac351425c9574e1bbe967",
-  "public_html_sha256": "701c9af6f23d341aea9ce14052fe813454bc36df9c62b9bbb143881e4ef03b73",
+  "source_html_sha256": "b17cedd315c2f7bf9a681d2d891c6e8f0f28f35c5a1900e6de5f8b02553bd794",
+  "public_html_sha256": "3bf58c7cc01298f6c1fbdb16f0bc92f87250aef31963b5fc264969cba8bc887d",
   "excluded": "Full supporting reports, protein lists, runtime records, and local paths"
 }
