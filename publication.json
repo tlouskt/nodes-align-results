@@ -1,0 +1,11 @@
+{
+  "published_at_utc": "2026-10-27T18:37:35.380838+00:00",
+  "source_updated_at_utc": "2026-10-27T18:37:16.365Z",
+  "completed_families": 51,
+  "expected_families": 96,
+  "source_snapshot": "sampling_update_20261027T182806.666004Z_539082",
+  "publication_mode": "one-time public plot snapshot; no schedule",
+  "source_html_sha256": "5f469d31be01eab29a7a2884c3ce92ee59f2d228a27ac351425c9574e1bbe967",
+  "public_html_sha256": "701c9af6f23d341aea9ce14052fe813454bc36df9c62b9bbb143881e4ef03b73",
+  "excluded": "Full supporting reports, protein lists, runtime records, and local paths"
+}
