@@ -2,6 +2,6 @@
 
 [Open the plots](https://tlouskt.github.io/nodes-align-results/).
 
-Public snapshot: 58 completed family plots, 27 October 2026, 4:53 PM Pacific. Updated as families finish. Numerical warnings are retained; completion does not imply numerical validity.
+Public snapshot: 59 completed family plots, 27 October 2026, 5:07 PM Pacific. Updated as families finish. Numerical warnings are retained; completion does not imply numerical validity.
 
 Only the report presentation and embedded plot data are published. Full supporting research records remain local.
