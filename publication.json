@@ -1,12 +1,12 @@
 {
-  "published_at_utc": "2026-10-28T03:53:33.391605+00:00",
-  "source_updated_at_utc": "2026-10-28T03:52:58.468Z",
+  "published_at_utc": "2026-10-28T03:59:56.735534+00:00",
+  "source_updated_at_utc": "2026-10-28T03:59:21.810Z",
   "completed_families": 65,
   "expected_families": 96,
-  "source_snapshot": "sampling_update_20261028T034216.096162Z_422410",
+  "source_snapshot": "sampling_update_20261028T034900.503442Z_1609501",
   "publication_mode": "updated on completed family or displayed diagnostic changes until all 96 finish",
-  "source_html_sha256": "1d2c708f3162e3226e7cbe83daeb82be152da37691e0a1b3611029e9e4394464",
-  "public_html_sha256": "aca8876e6a4e196a373b84f20c9d836ce06dafb2baab065ba352ec48b5425673",
+  "source_html_sha256": "805692a445b84efb749363eba43d48ac1a9c8fe8b32d5a22e887da7e608b4561",
+  "public_html_sha256": "5acde8ab161b1f3b822cb07ec96ae5d81bba19efa886e4731060189e68e5f96d",
   "excluded": "Full supporting reports, protein lists, runtime records, and local paths",
   "family_keys": [
     "exact/group_random_v1_PF00005",
@@ -75,5 +75,5 @@
     "exact/group_random_v1_PF28337",
     "exact/group_random_v1_PF28552"
   ],
-  "publication_fingerprint": "74ac932a760c863211098d4b4a0fd1c0f06dabbead6ce636a03c7c784fc9129b"
+  "publication_fingerprint": "8a4b38491a8e756ec0479a4cd71db66ad28ee29fa5dea0636ff5d0c2d0f8dc38"
 }
